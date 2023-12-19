@@ -1,0 +1,355 @@
+PARAMETER: 
+giantCC not given, default assumed (0)
+outfile not given, default assumed ()
+root not given, default assumed ()
+	algo: gabow
+	check: 0
+	csv: results/quick.csv
+	giantCC: 0
+	input: konect/wikipedia_link_zh_yue.soap
+	outfile: 
+	root: 
+load graph finished in 96 ms
+n      =110749
+m      =1718469
+add random weights finished in 4 ms
+add supernode finished in 6 ms
+construct algo DS finished in 31 ms
+run algo finished in 150 ms
+reconstruct finished in 1 ms
+destroy finished in 23 ms
+total finished in 207 ms
+n      =110750
+m      =1829218
+w      =40678000356054
+w%1e9  =356054
+w/1e9  =40678
+PARAMETER: 
+giantCC not given, default assumed (0)
+outfile not given, default assumed ()
+root not given, default assumed ()
+	algo: gabow
+	check: 0
+	csv: results/quick.csv
+	giantCC: 0
+	input: konect/wikipedia_link_gu.soap
+	outfile: 
+	root: 
+load graph finished in 73 ms
+n      =30430
+m      =1327386
+add random weights finished in 3 ms
+add supernode finished in 5 ms
+construct algo DS finished in 21 ms
+run algo finished in 73 ms
+reconstruct finished in 0 ms
+destroy finished in 4 ms
+total finished in 99 ms
+n      =30431
+m      =1357816
+w      =3405000181072
+w%1e9  =181072
+w/1e9  =3405
+PARAMETER: 
+giantCC not given, default assumed (0)
+outfile not given, default assumed ()
+root not given, default assumed ()
+	algo: gabow
+	check: 0
+	csv: results/quick.csv
+	giantCC: 0
+	input: konect/wiki_talk_nds.soap
+	outfile: 
+	root: 
+load graph finished in 1 ms
+n      =23132
+m      =25907
+add random weights finished in 0 ms
+add supernode finished in 0 ms
+construct algo DS finished in 2 ms
+run algo finished in 3 ms
+reconstruct finished in 0 ms
+destroy finished in 0 ms
+total finished in 7 ms
+n      =23133
+m      =49039
+w      =123000238530
+w%1e9  =238530
+w/1e9  =123
+PARAMETER: 
+giantCC not given, default assumed (0)
+outfile not given, default assumed ()
+root not given, default assumed ()
+	algo: gabow
+	check: 0
+	csv: results/quick.csv
+	giantCC: 0
+	input: konect/wikipedia_link_th.soap
+	outfile: 
+	root: 
+load graph finished in 361 ms
+n      =266937
+m      =5844409
+add random weights finished in 15 ms
+add supernode finished in 21 ms
+construct algo DS finished in 104 ms
+run algo finished in 679 ms
+reconstruct finished in 7 ms
+destroy finished in 99 ms
+total finished in 891 ms
+n      =266938
+m      =6111346
+w      =74827000947556
+w%1e9  =947556
+w/1e9  =74827
+PARAMETER: 
+giantCC not given, default assumed (0)
+outfile not given, default assumed ()
+root not given, default assumed ()
+	algo: gabow
+	check: 0
+	csv: results/quick.csv
+	giantCC: 0
+	input: konect/web-BerkStan.soap
+	outfile: 
+	root: 
+load graph finished in 453 ms
+n      =685230
+m      =7600595
+add random weights finished in 20 ms
+add supernode finished in 29 ms
+construct algo DS finished in 155 ms
+run algo finished in 949 ms
+reconstruct finished in 17 ms
+destroy finished in 176 ms
+total finished in 1299 ms
+n      =685231
+m      =8285825
+w      =70171004193508
+w%1e9  =4193508
+w/1e9  =70171
+PARAMETER: 
+giantCC not given, default assumed (0)
+outfile not given, default assumed ()
+root not given, default assumed ()
+	algo: gabow
+	check: 0
+	csv: results/quick.csv
+	giantCC: 0
+	input: konect/wiki_talk_lv.soap
+	outfile: 
+	root: 
+load graph finished in 5 ms
+n      =41424
+m      =65160
+add random weights finished in 0 ms
+add supernode finished in 0 ms
+construct algo DS finished in 5 ms
+run algo finished in 6 ms
+reconstruct finished in 0 ms
+destroy finished in 1 ms
+total finished in 13 ms
+n      =41425
+m      =106584
+w      =285000405478
+w%1e9  =405478
+w/1e9  =285
+PARAMETER: 
+giantCC not given, default assumed (0)
+outfile not given, default assumed ()
+root not given, default assumed ()
+	algo: gabow
+	check: 0
+	csv: results/quick.csv
+	giantCC: 0
+	input: konect/wiki_talk_ca.soap
+	outfile: 
+	root: 
+load graph finished in 25 ms
+n      =79736
+m      =326088
+add random weights finished in 1 ms
+add supernode finished in 2 ms
+construct algo DS finished in 14 ms
+run algo finished in 13 ms
+reconstruct finished in 0 ms
+destroy finished in 2 ms
+total finished in 30 ms
+n      =79737
+m      =405824
+w      =641000572266
+w%1e9  =572266
+w/1e9  =641
+PARAMETER: 
+giantCC not given, default assumed (0)
+outfile not given, default assumed ()
+root not given, default assumed ()
+	algo: gabow
+	check: 0
+	csv: results/quick.csv
+	giantCC: 0
+	input: konect/epinions.soap
+	outfile: 
+	root: 
+load graph finished in 51 ms
+n      =131828
+m      =840799
+add random weights finished in 2 ms
+add supernode finished in 3 ms
+construct algo DS finished in 23 ms
+run algo finished in 164 ms
+reconstruct finished in 3 ms
+destroy finished in 21 ms
+total finished in 212 ms
+n      =131829
+m      =972627
+w      =48198000604509
+w%1e9  =604509
+w/1e9  =48198
+PARAMETER: 
+giantCC not given, default assumed (0)
+outfile not given, default assumed ()
+root not given, default assumed ()
+	algo: gabow
+	check: 0
+	csv: results/quick.csv
+	giantCC: 0
+	input: konect/wikipedia_link_eml.soap
+	outfile: 
+	root: 
+load graph finished in 94 ms
+n      =11856
+m      =1895125
+add random weights finished in 5 ms
+add supernode finished in 7 ms
+construct algo DS finished in 22 ms
+run algo finished in 95 ms
+reconstruct finished in 0 ms
+destroy finished in 2 ms
+total finished in 120 ms
+n      =11857
+m      =1906981
+w      =2525000033125
+w%1e9  =33125
+w/1e9  =2525
+PARAMETER: 
+giantCC not given, default assumed (0)
+outfile not given, default assumed ()
+root not given, default assumed ()
+	algo: spaghetti
+	check: 0
+	csv: results/quick.csv
+	giantCC: 0
+	input: konect/wikipedia_link_zh_yue.soap
+	outfile: 
+	root: 
+load graph finished in 100 ms
+n      =110749
+m      =1718469
+add random weights finished in 4 ms
+add supernode finished in 7 ms
+construct algo DS finished in 16 ms
+run algo finished in 1697 ms
+reconstruct finished in 0 ms
+destroy finished in 2 ms
+total finished in 1715 ms
+n      =110750
+m      =1829218
+w      =40678000356054
+w%1e9  =356054
+w/1e9  =40678
+PARAMETER: 
+giantCC not given, default assumed (0)
+outfile not given, default assumed ()
+root not given, default assumed ()
+	algo: spaghetti
+	check: 0
+	csv: results/quick.csv
+	giantCC: 0
+	input: konect/wikipedia_link_gu.soap
+	outfile: 
+	root: 
+load graph finished in 76 ms
+n      =30430
+m      =1327386
+add random weights finished in 3 ms
+add supernode finished in 4 ms
+construct algo DS finished in 15 ms
+run algo finished in 735 ms
+reconstruct finished in 0 ms
+destroy finished in 1 ms
+total finished in 752 ms
+n      =30431
+m      =1357816
+w      =3405000181072
+w%1e9  =181072
+w/1e9  =3405
+PARAMETER: 
+giantCC not given, default assumed (0)
+outfile not given, default assumed ()
+root not given, default assumed ()
+	algo: spaghetti
+	check: 0
+	csv: results/quick.csv
+	giantCC: 0
+	input: konect/wiki_talk_nds.soap
+	outfile: 
+	root: 
+load graph finished in 2 ms
+n      =23132
+m      =25907
+add random weights finished in 0 ms
+add supernode finished in 0 ms
+construct algo DS finished in 0 ms
+run algo finished in 3 ms
+reconstruct finished in 0 ms
+destroy finished in 0 ms
+total finished in 3 ms
+n      =23133
+m      =49039
+w      =123000238530
+w%1e9  =238530
+w/1e9  =123
+PARAMETER: 
+giantCC not given, default assumed (0)
+outfile not given, default assumed ()
+root not given, default assumed ()
+	algo: spaghetti
+	check: 0
+	csv: results/quick.csv
+	giantCC: 0
+	input: konect/wikipedia_link_th.soap
+	outfile: 
+	root: 
+load graph finished in 350 ms
+n      =266937
+m      =5844409
+add random weights finished in 15 ms
+add supernode finished in 22 ms
+construct algo DS finished in 49 ms
+run algo finished in 8464 ms
+reconstruct finished in 0 ms
+destroy finished in 1 ms
+total finished in 8516 ms
+n      =266938
+m      =6111346
+w      =74827000947556
+w%1e9  =947556
+w/1e9  =74827
+PARAMETER: 
+giantCC not given, default assumed (0)
+outfile not given, default assumed ()
+root not given, default assumed ()
+	algo: spaghetti
+	check: 0
+	csv: results/quick.csv
+	giantCC: 0
+	input: konect/web-BerkStan.soap
+	outfile: 
+	root: 
+load graph finished in 492 ms
+n      =685230
+m      =7600595
+add random weights finished in 21 ms
+add supernode finished in 31 ms
+construct algo DS finished in 60 ms

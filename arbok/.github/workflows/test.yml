@@ -1,0 +1,43 @@
+name: Run tests on commit
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        os: [ubuntu-latest]
+    defaults:
+      run:
+        shell: bash -l {0}
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Prepare test data
+      run: |
+        cd data
+        make fastestspeedrun
+
+    - name: Install GTest and Boost-Graph
+      run: |
+        sudo apt-get update && sudo apt-get install -y libgtest-dev libboost-graph-dev
+
+    - name: Download Lemon
+      run: ./dependencies.sh
+
+    - name: Configure
+      run: |
+        cmake -S. -Bbuild -DCMAKE_BUILD_TYPE=Debug
+
+    - name: Build
+      run: |
+        cmake --build build --config Debug
+
+    - name: Test
+      run: |
+        cd build
+        ctest -C Debug --output-on-failure --verbose --exclude-regex LargeOnes

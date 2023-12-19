@@ -1,0 +1,14 @@
+file,n,m,weighted,opt,algo,con,run,rec,del
+konect/wikipedia_link_zh_yue.soap,110750,1829218,1,40678000356054,gabow,31,150,1,23
+konect/wikipedia_link_gu.soap,30431,1357816,1,3405000181072,gabow,21,73,0,4
+konect/wiki_talk_nds.soap,23133,49039,1,123000238530,gabow,2,3,0,0
+konect/wikipedia_link_th.soap,266938,6111346,1,74827000947556,gabow,104,679,7,99
+konect/web-BerkStan.soap,685231,8285825,1,70171004193508,gabow,155,949,17,176
+konect/wiki_talk_lv.soap,41425,106584,1,285000405478,gabow,5,6,0,1
+konect/wiki_talk_ca.soap,79737,405824,1,641000572266,gabow,14,13,0,2
+konect/epinions.soap,131829,972627,1,48198000604509,gabow,23,164,3,21
+konect/wikipedia_link_eml.soap,11857,1906981,1,2525000033125,gabow,22,95,0,2
+konect/wikipedia_link_zh_yue.soap,110750,1829218,1,40678000356054,spaghetti,16,1697,0,2
+konect/wikipedia_link_gu.soap,30431,1357816,1,3405000181072,spaghetti,15,735,0,1
+konect/wiki_talk_nds.soap,23133,49039,1,123000238530,spaghetti,0,3,0,0
+konect/wikipedia_link_th.soap,266938,6111346,1,74827000947556,spaghetti,49,8464,0,1
